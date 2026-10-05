@@ -23,8 +23,14 @@ It helps management understand sales, profit, products, discounts and geographic
 
 ## Files
 - `Supermart_Grocery_Sales_Dashboard_Simple.xlsx` – the dashboard
+- Objective 1
 - <img width="916" height="277" alt="Ob2" src="https://github.com/user-attachments/assets/821556d7-6005-4221-979b-ca162de4dac3" /> 
 - <img width="1283" height="277" alt="Ob1" src="https://github.com/user-attachments/assets/3072fd19-d3ce-4140-b5bf-1157fd7d10a8" />
+- Objective 2
+- <img width="1281" height="483" alt="Ob3" src="https://github.com/user-attachments/assets/b702975d-9300-446e-a143-ee85a7e3e4b2" />
+- <img width="1295" height="253" alt="Ob3 1" src="https://github.com/user-attachments/assets/2d6aaf4c-f94c-4f1f-8f02-c20529f1bdc3" />
+- 
+
 ## Tools
 Microsoft Excel (tables, pivot tables, charts)
 
