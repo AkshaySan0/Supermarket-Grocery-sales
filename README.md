@@ -27,5 +27,3 @@ It helps management understand sales, profit, products, discounts and geographic
 ## Tools
 Microsoft Excel (tables, pivot tables, charts)
 
-## Dashboard preview
-![Objective 1](images/objective1.png)
