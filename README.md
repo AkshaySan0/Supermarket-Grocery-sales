@@ -29,7 +29,14 @@ It helps management understand sales, profit, products, discounts and geographic
 - Objective 2
 - <img width="1281" height="483" alt="Ob3" src="https://github.com/user-attachments/assets/b702975d-9300-446e-a143-ee85a7e3e4b2" />
 - <img width="1295" height="253" alt="Ob3 1" src="https://github.com/user-attachments/assets/2d6aaf4c-f94c-4f1f-8f02-c20529f1bdc3" />
-- 
+- Objective 3
+- <img width="961" height="423" alt="0121" src="https://github.com/user-attachments/assets/53951887-4f56-4bc0-80ba-7c2486599fcf" />
+- Objective 4
+- <img width="1212" height="431" alt="0011112" src="https://github.com/user-attachments/assets/6b1cb372-8daf-4ed8-968b-570ed32e2ba8" />
+- <img width="1235" height="239" alt="099987" src="https://github.com/user-attachments/assets/1afb1263-ae4b-4e79-8642-a35270bf1680" />
+
+
+
 
 ## Tools
 Microsoft Excel (tables, pivot tables, charts)
