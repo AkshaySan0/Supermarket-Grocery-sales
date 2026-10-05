@@ -1,3 +1,4 @@
+
 # Supermart Grocery Sales Dashboard
 
 A beginner-friendly Excel dashboard built for the SapphireIQ student project.
@@ -22,8 +23,8 @@ It helps management understand sales, profit, products, discounts and geographic
 
 ## Files
 - `Supermart_Grocery_Sales_Dashboard_Simple.xlsx` – the dashboard
-- `images/` – screenshots
-
+- <img width="916" height="277" alt="Ob2" src="https://github.com/user-attachments/assets/821556d7-6005-4221-979b-ca162de4dac3" /> 
+- <img width="1283" height="277" alt="Ob1" src="https://github.com/user-attachments/assets/3072fd19-d3ce-4140-b5bf-1157fd7d10a8" />
 ## Tools
 Microsoft Excel (tables, pivot tables, charts)
 
