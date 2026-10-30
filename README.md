@@ -1,7 +1,7 @@
 
 # Supermart Grocery Sales Dashboard
 
-A beginner-friendly Excel dashboard built for the SapphireIQ student project.
+An Excel dashboard built for the project.
 It helps management understand sales, profit, products, discounts and geographic performance.
 
 ## Dataset
